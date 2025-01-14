@@ -26,7 +26,7 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 
 - **ACT Scene(JONGNO, FINAL) 프로젝트 클래스 다이어그램**
 <div align="center">
-<img src="https://github.com/user-attachments/assets/81b84a89-5e9e-430b-81c3-809eb53e3c65" alt="image">
+<img src="https://github.com/user-attachments/assets/7e6b685e-8925-495f-8642-d04bf1190a29" alt="image">
 </div>
 
 <br>
@@ -66,8 +66,9 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 <br>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b1159a07-5362-4500-bdad-9b2ee4621e72" alt="image">
+<img src="https://github.com/user-attachments/assets/c8bbfd1a-1862-4c48-a2b9-c8ef4aecd6e2" alt="image">
 </div>
+
 
 <br>
 
@@ -76,7 +77,7 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 > 지문 설명: 게임 상황에 대한 이해와 이후 진행해야 할 미션을 파악하기 위한 지문입니다.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/36f2d243-a638-4a31-b1c8-320dbe333144" alt="image">
+<img src="https://github.com/user-attachments/assets/2b87f461-d9f4-4bfe-a527-0a04e526d15d" alt="image">
 </div>
 
 <br>
@@ -84,7 +85,7 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 > GameFlow Light: 게임 흐름을 자연스럽게 따라가도록 하기 위한 빛이 존재합니다.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/faa96ef1-ea60-4164-afd1-f08d47f043ae" alt="image">
+<img src="https://github.com/user-attachments/assets/02910175-c4eb-4c68-a344-a12098be5c3c" alt="image">
 </div>
 
 <br>
@@ -92,7 +93,7 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 > NPC 스크립트, 플레이어 독백을 통해서도 게임 흐름에 대한 설명이 진행됩니다.
 
  <div align="center">
-    <img src="https://github.com/user-attachments/assets/540262bd-8eec-446d-a96d-36533e663975" alt="image" width="1000">
+    <img src="https://github.com/user-attachments/assets/bca97b6d-2be3-48c2-b1fe-e87f501f4029" alt="image" width="1000">
 </div>
 
 <br>
@@ -103,9 +104,8 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 >- Safe Areas: 포스터 근처, 시장 상인 근처
   
  <div align="center">
-    <img src="https://github.com/user-attachments/assets/993978b3-c9ea-4416-96ab-52f3d6131765" alt="image" width="900">
+    <img src="https://github.com/user-attachments/assets/5f2f950b-c6d0-4739-92b7-5e9be51a70c8" alt="image" width="900">
 </div>
-
 
  <br>
  
@@ -114,7 +114,7 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 >- 피스톨(한손), 소총(두손)
 
  <div align="center">
-    <img src="https://github.com/user-attachments/assets/445965c3-36ab-46f2-90af-cb88a71b59d1" alt="image" width="900">
+    <img src="https://github.com/user-attachments/assets/1aa5f2d5-4809-4646-b6a2-086b9ecca7b6" alt="image" width="900">
 </div>
 
 <br>
@@ -122,14 +122,14 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 >- Teleport Areas
   
  <div align="center">
-    <img src="https://github.com/user-attachments/assets/b157b996-f1ac-45d0-b22b-380995e2ce8a" alt="image" width="380">
+    <img src="https://github.com/user-attachments/assets/528319e2-11a6-440b-9eef-eff4490165ef" alt="image" width="380">
 </div>
 
  <br>
  
 >- 총 휴대(socket)
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/4d8bb097-b07a-440e-973f-a0859306dfb3" alt="image" width="600">
+    <img src="https://github.com/user-attachments/assets/c13f5195-ccf3-4dbf-aaa5-f34eda3f578d" alt="image" width="600">
 </div>
 
  <br>
@@ -140,7 +140,7 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 
 - 안개와 빛 효과
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/f7fc2b50-3404-4fbf-86aa-6cfb56b5abe1" alt="image" width="600">
+    <img src="https://github.com/user-attachments/assets/f37aafa6-f174-4b87-b7bf-d9b537d2579f" alt="image" width="600">
 </div>
 
 <br>
@@ -155,7 +155,7 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 
 - **마지막 전투 씬**
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/e596d9f5-ff0c-4e9c-a8c5-aee209a26ecd" alt="image" width="400">
+    <img src="https://github.com/user-attachments/assets/5047ec6e-93db-44a9-85db-8829f1ca413c" alt="image" width="400">
 </div>
 
 <br>
@@ -165,18 +165,18 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 <br>
 
 ### 6. 추가 이미지
-- In game
+- In Game
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/8699fdf6-5587-47e5-b424-a246498888a6" alt="image" width="1000">
+    <img src="https://github.com/user-attachments/assets/467e2782-d134-4a45-aebb-5b5528f854f2" alt="image" width="1000">
 </div>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/d2cc7c96-85d6-473d-88ed-50ac268b0d76" alt="image" width="1000">
+    <img src="https://github.com/user-attachments/assets/a7d2f540-0156-4e17-b5c5-4cb9060e14ab" alt="image" width="1000">
 </div>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/5819eec5-8112-49d3-9f00-b2d895ef63ac" alt="image" width="700">
+    <img src="https://github.com/user-attachments/assets/a2a3aca1-a577-4534-a139-8fc4535ad6f0" alt="image" width="700">
 </div>
 
 
@@ -184,16 +184,15 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 
 - Character Voice
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/f177fdbd-b3e5-4e3b-a33d-d27a4d6e3cef" alt="image" width="340">
+    <img src="https://github.com/user-attachments/assets/90c1088f-5465-4a29-b89b-168e78ebd2e6" alt="image" width="340">
 </div>
-
 
 <br>
 
 - GGC, GEEKS 참여 부스
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/46753d10-aa87-4759-aefb-082b718ccf8e" alt="image" width="600">
+    <img src="https://github.com/user-attachments/assets/3284033d-3d90-4eda-90a3-9f564bef725d" alt="image" width="600">
 </div>
 
 
@@ -201,7 +200,7 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 
 - Showcase Poster
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7c04aff7-0775-4cfe-989b-f8a3089d6a2f" alt="image" width="700">
+    <img src="https://github.com/user-attachments/assets/645f4886-6342-4301-ab6b-c0c48f2337cb" alt="image" width="700">
 </div>
 
 
