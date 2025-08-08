@@ -160,11 +160,10 @@ Ref Video: [경성피스톨](https://www.youtube.com/watch?v=cJLAUB5NHE4&t=936s)
 
 - **마지막 전투 씬**
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/5047ec6e-93db-44a9-85db-8829f1ca413c" alt="image" width="400">
+    <img src="https://github.com/user-attachments/assets/5fc4e8e1-7df0-4cb2-8fd0-728eb8200440" alt="image" width="400">
 </div>
 
 <br>
-
 
 <br>
 
